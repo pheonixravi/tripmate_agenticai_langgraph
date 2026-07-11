@@ -58,3 +58,4 @@ pip install -r requirements.txt
 # API Endpoints
 - GET /health - Health check
 - POST /api/travel - Submit a travel request
+
