@@ -6,8 +6,8 @@ from backend import run_travel_agent
 # print(res)
 
 
-# res = search_flights("Plan a 7 days Nepal trip from Bangladesh")
-# print(res)
+res = search_flights("Plan a 7 days Japan trip from India")
+print(res)
 
 user_input = input("Enter travel request: ")
 
